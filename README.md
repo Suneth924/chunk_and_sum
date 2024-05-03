@@ -1,6 +1,4 @@
 
-Certainly! Here's a description you could use to upload the code to GitHub:
-
 Title: Chunking Data in Pandas DataFrame and Calculating Summation
 
 Description:
